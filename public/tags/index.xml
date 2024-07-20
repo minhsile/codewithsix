@@ -1,101 +1,101 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on codewithsix</title>
-    <link>http://localhost:1313/hugo-PaperMod/tags/</link>
-    <description>Recent content in Tags on codewithsix</description>
+    <title>Tags on CodeWithSix</title>
+    <link>http://127.0.0.1:5500/public/tags/</link>
+    <description>Recent content in Tags on CodeWithSix</description>
     <image>
-      <title>codewithsix</title>
-      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+      <title>CodeWithSix</title>
+      <url>http://127.0.0.1:5500/public/images/papermod-cover.png</url>
+      <link>http://127.0.0.1:5500/public/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-PaperMod/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://127.0.0.1:5500/public/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docs</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/docs/</link>
+      <link>http://127.0.0.1:5500/public/tags/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/docs/</guid>
+      <guid>http://127.0.0.1:5500/public/tags/docs/</guid>
       <description></description>
     </item>
     <item>
       <title>PaperMod</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/papermod/</link>
+      <link>http://127.0.0.1:5500/public/tags/papermod/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/papermod/</guid>
+      <guid>http://127.0.0.1:5500/public/tags/papermod/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/css/</link>
+      <link>http://127.0.0.1:5500/public/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/css/</guid>
+      <guid>http://127.0.0.1:5500/public/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/html/</link>
+      <link>http://127.0.0.1:5500/public/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/html/</guid>
+      <guid>http://127.0.0.1:5500/public/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/markdown/</link>
+      <link>http://127.0.0.1:5500/public/tags/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/markdown/</guid>
+      <guid>http://127.0.0.1:5500/public/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/themes/</link>
+      <link>http://127.0.0.1:5500/public/tags/themes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/themes/</guid>
+      <guid>http://127.0.0.1:5500/public/tags/themes/</guid>
       <description></description>
     </item>
     <item>
       <title>Code</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/code/</link>
+      <link>http://127.0.0.1:5500/public/tags/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/code/</guid>
+      <guid>http://127.0.0.1:5500/public/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>Gist</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/gist/</link>
+      <link>http://127.0.0.1:5500/public/tags/gist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/gist/</guid>
+      <guid>http://127.0.0.1:5500/public/tags/gist/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/privacy/</link>
+      <link>http://127.0.0.1:5500/public/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/privacy/</guid>
+      <guid>http://127.0.0.1:5500/public/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/shortcodes/</link>
+      <link>http://127.0.0.1:5500/public/tags/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/shortcodes/</guid>
+      <guid>http://127.0.0.1:5500/public/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/syntax/</link>
+      <link>http://127.0.0.1:5500/public/tags/syntax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/syntax/</guid>
+      <guid>http://127.0.0.1:5500/public/tags/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/emoji/</link>
+      <link>http://127.0.0.1:5500/public/tags/emoji/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/emoji/</guid>
+      <guid>http://127.0.0.1:5500/public/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>
