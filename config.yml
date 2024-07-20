@@ -1,7 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 # baseURL: "http://127.0.0.1:5500/public"
-baseURL: "https://codewithsix.netlify.app/public"
+baseURL: "https://codewithsix.netlify.app"
 title: CodeWithSix
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 paginate: 5
